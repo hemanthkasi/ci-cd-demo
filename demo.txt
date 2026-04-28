@@ -1,4 +1,1 @@
-sample file
-Hello CI/CD Demo
-second change done 
-now 3rd
+Hello world
